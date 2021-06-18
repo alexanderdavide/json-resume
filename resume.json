@@ -13,9 +13,24 @@
     },
     "profiles": [
       {
+        "network": "Stack Overflow",
+        "username": "alexander-eble",
+        "url": "https://stackoverflow.com/users/9378384/alexander-eble"
+      },
+      {
+        "network": "GitHub",
+        "username": "alexanderdavide",
+        "url": "https://github.com/alexanderdavide"
+      },
+      {
         "network": "LinkedIn",
         "username": "alexander-eble",
         "url": "https://www.linkedin.com/in/alexander-eble/"
+      },
+      {
+        "network": "Twitter",
+        "username": "alexander_eble",
+        "url": "https://twitter.com/alexander_eble"
       }
     ]
   },
@@ -128,7 +143,11 @@
     {
       "name": "Cloud-Computing",
       "level": "",
-      "keywords": ["Amazon Web Services (AWS)", "Google Cloud Platform (GCP)", "Microsoft Azure"]
+      "keywords": [
+        "Amazon Web Services (AWS)",
+        "Google Cloud Platform (GCP)",
+        "Microsoft Azure"
+      ]
     },
     {
       "name": "Project Management",
@@ -168,12 +187,8 @@
   "interests": [],
   "references": [
     {
-      "name": "Mark A.M. Kramer",
-      "reference": "Alexander is one of those rare students who truly stands-out from \"the rest of class\" because he actually cares about his studies; and, is extremely active and engaged in his own personal learning."
-    },
-    {
       "name": "Prof. Dr. Roman Egger",
-      "reference": "Herr Eble hat ein Tool zur Customer Segmentation umgesetzt, dabei wurde unter anderem ein Clustering Verfahren, Dimensionsreduktion und Visualisierung der Daten sowie ein Interface für Eingabe der Daten entwickelt. Das Projekt wurde zu meiner vollsten Zufriedenheit umgesetzt. Ich freue mich auf weitere Projekte mit Herrn Eble"
+      "reference": "Herr Eble hat ein Tool zur Customer Segmentation umgesetzt, wobei ein Clustering Verfahren, Dimensionsreduktion und Visualisierung der Daten sowie ein User Interface entwickelt. Das Projekt wurde zu meiner vollsten Zufriedenheit umgesetzt. Ich freue mich auf weitere Projekte mit Herrn Eble."
     },
     {
       "name": "Martin Simmerstatter",
@@ -182,6 +197,10 @@
     {
       "name": "Alexander Bilz",
       "reference": "While the tasks at Baden Württemberg State University ranged from programming to writing case studies, Alex's attitude has always been extremely consistent. His incredible attention to detail, vast technical knowledge and willingness to go the extra mile makes it a true joy to tackle any challenge."
+    },
+    {
+      "name": "Mark A.M. Kramer",
+      "reference": "Alexander is one of those rare students who truly stands-out from \"the rest of class\" because he actually cares about his studies; and, is extremely active and engaged in his own personal learning."
     }
   ],
   "meta": { "theme": "elegant" }
