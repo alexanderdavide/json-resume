@@ -1,0 +1,29 @@
+{
+  "name": "json-resume",
+  "image": "node",
+  "containerUser": "node",
+  "forwardPorts": [4000],
+  "settings": {
+    "sync.syncExtensions": false,
+    "sync.autoDownload": true,
+    "sync.autoUpload": false
+  },
+  "extensions": [
+    "adpyke.codesnap",
+    "codezombiech.gitignore",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "dsznajder.es7-react-js-snippets",
+    "hashicorp.terraform",
+    "humao.rest-client",
+    "ms-azuretools.vscode-docker",
+    "ms-ossdata.vscode-postgresql",
+    "ms-vsliveshare.vsliveshare",
+    "ms-vscode-remote.remote-containers",
+    "ms-python.python",
+    "shan.code-settings-sync",
+    "vscode-icons-team.vscode-icons",
+    "wakatime.vscode-wakatime"
+  ]
+}

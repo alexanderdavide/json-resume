@@ -1,0 +1,16 @@
+on:
+  push:
+    branches: [master]
+
+jobs:
+  gist-sync:
+    name: gist-sync
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - uses: popsiclestick/gist-sync-action@v1.2.0
+        with:
+          auth: ${{ secrets.GIST_TOKEN }}
+          gist_url: https://gist.github.com/alexanderdavide/9a6c025553cc25001eed4e8d404cf73c
+          github_file: resume.json

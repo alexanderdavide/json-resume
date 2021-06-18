@@ -1,0 +1,188 @@
+{
+  "basics": {
+    "name": "Alexander Eble",
+    "label": "Full Stack Developer & Wirtschaftsinformatiker",
+    "picture": "",
+    "email": "alexeble1998@gmail.com",
+    "phone": "",
+    "website": "https://www.alexander-eble.me",
+    "summary": "Web- und Softwareentwickler mit betriebswirtschaftlicher Expertise",
+    "location": {
+      "countryCode": "DE",
+      "address": "Deutschland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "alexander-eble",
+        "url": "https://www.linkedin.com/in/alexander-eble/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "artiso solutions GmbH",
+      "highlights": [],
+      "position": "Masterstudent Softwareentwicklung",
+      "startDate": "2021-02-28",
+      "summary": "Entwicklung digitaler Assistenten zur optimalen Steuerung der Luftqualität in fenstergelüfteten Innenräumen mittels Machine Learning und Verschriftlichung der zugehörigen Masterarbeit",
+      "url": "https://www.artiso.com/"
+    },
+    {
+      "name": "Alexander Eble - Web- und Softwareentwicklung",
+      "highlights": [],
+      "position": "Freiberuflicher Web- und Softwareentwickler",
+      "startDate": "2019-11-30",
+      "summary": "Web- und Softwareentwicklung nach Kundenanforderungen",
+      "url": "https://www.alexander-eble.me"
+    },
+    {
+      "name": "Uhlmann Pac-Systeme GmbH & Co. KG",
+      "endDate": "2020-09-30",
+      "highlights": [],
+      "position": "Werkstudent Architecture & Technology Digital Solutions",
+      "startDate": "2020-08-31",
+      "summary": "Entwicklung eines API Services und CLI Tools zur Sammlung von Logs und Reports aus APIs, Datenbanken und Servern",
+      "url": "https://www.uhlmann.de/de/unternehmen/auf-einen-blick.html"
+    },
+    {
+      "name": "EvoBus GmbH",
+      "endDate": "2019-09-30",
+      "highlights": [
+        "IT Mobility Solutions: Konzeption und Entwicklung von Softwareprototypen im Bereich Elektromobilität",
+        "IT Business Intelligence, Analytics & Cognitive: Umfassende Software Evaluation für den Einsatz einer Data Cataloging Lösung",
+        "IT Engineering Services & Parts Systems (Mercedes-Benz USA): Projektmanagement von IT-Projekten in den Bereichen AI und Data Analytics",
+        "IT AfterSales Warehouse, Parts & Logistic Solutions: Anforderungserhebung  unterschiedlich großer Lager der Daimler Buses AfterSales Standorte an deren IT-Unterstützung"
+      ],
+      "position": "Dualer Student Wirtschaftsinformatik",
+      "startDate": "2016-09-30",
+      "url": "https://www.evobus.com/de-de/"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Fachhochschule Salzburg",
+      "area": "MultiMediaTechnology Web Engineering",
+      "studyType": "Master of Science in Engineering - M.Sc.Eng.",
+      "startDate": "2019-12-31",
+      "endDate": "2021-12-31",
+      "gpa": "1.2",
+      "courses": []
+    },
+    {
+      "institution": "Duale Hochschule Baden-Württemberg",
+      "area": "Wirtschaftsinformatik",
+      "studyType": "Bachelor of Science - BS",
+      "startDate": "2016-12-31",
+      "endDate": "2019-12-31",
+      "gpa": "2.0",
+      "courses": []
+    },
+    {
+      "institution": "Carl-Laemmle Gymnasium Laupheim",
+      "studyType": "Abitur",
+      "startDate": "2008-12-31",
+      "endDate": "2016-12-31",
+      "gpa": "2.0",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Leistungsstipendium des Studiengangs MultiMediaTechnology",
+      "date": "2020-11-01",
+      "awarder": "FH Salzburg, Studiengang MultiMediaTechnology",
+      "summary": ""
+    },
+    {
+      "title": "Stipendium #wirsindzukunft",
+      "date": "2020-08-31",
+      "awarder": "Salzburg AG in Kooperation mit dem Land Salzburg und der FH Salzburg",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Full-Stack Development",
+      "level": "",
+      "keywords": [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Ruby",
+        "C#",
+        "HTML",
+        "CSS",
+        "React.js",
+        "Ruby on Rails",
+        "Flask",
+        "GraphQL",
+        "Docker",
+        "REST APIs",
+        "Bash",
+        "Git"
+      ]
+    },
+    {
+      "name": "Cloud-Computing",
+      "level": "",
+      "keywords": ["Amazon Web Services (AWS)", "Google Cloud Platform (GCP)", "Microsoft Azure"]
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": ["Agile & Waterfall Methodologies", "Scrum"]
+    },
+    {
+      "name": "Relationale Datenbanken",
+      "level": "",
+      "keywords": ["PostgreSQL"]
+    },
+    {
+      "name": "Continuous Integration und Continuous Delivery (CI/CD)",
+      "level": "",
+      "keywords": ["Terraform", "GitHub Actions", "GitLab CI/CD"]
+    },
+    {
+      "name": "Betriebssysteme",
+      "level": "",
+      "keywords": ["Linux"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Deutsch",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Englisch",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanisch",
+      "fluency": "Gute Kenntnisse"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Mark A.M. Kramer",
+      "reference": "Alexander is one of those rare students who truly stands-out from \"the rest of class\" because he actually cares about his studies; and, is extremely active and engaged in his own personal learning."
+    },
+    {
+      "name": "Prof. Dr. Roman Egger",
+      "reference": "Herr Eble hat ein Tool zur Customer Segmentation umgesetzt, dabei wurde unter anderem ein Clustering Verfahren, Dimensionsreduktion und Visualisierung der Daten sowie ein Interface für Eingabe der Daten entwickelt. Das Projekt wurde zu meiner vollsten Zufriedenheit umgesetzt. Ich freue mich auf weitere Projekte mit Herrn Eble"
+    },
+    {
+      "name": "Martin Simmerstatter",
+      "reference": "Persönlich: lösungsorientiert; flexibel; positive Einstellung; bedacht; strukturiert; kühler, schlauer Kopf. Wir sind mit der Umsetzung unseres Front-End sehr zufrieden. Wir haben noch einige Projekte in der Pipeline die wir gerne mit Alex umsetzen würden."
+    },
+    {
+      "name": "Alexander Bilz",
+      "reference": "While the tasks at Baden Württemberg State University ranged from programming to writing case studies, Alex's attitude has always been extremely consistent. His incredible attention to detail, vast technical knowledge and willingness to go the extra mile makes it a true joy to tackle any challenge."
+    }
+  ],
+  "meta": { "theme": "elegant" }
+}

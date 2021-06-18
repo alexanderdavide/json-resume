@@ -1,0 +1,22 @@
+{
+  "name": "json-resume",
+  "version": "1.0.0",
+  "description": "Alexander Eble's JSON Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexander",
+    "eble",
+    "resume",
+    "cv"
+  ],
+  "author": "alexanderdavide",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.16.1",
+    "prettier": "^2.3.1",
+    "resume-cli": "^3.0.4"
+  }
+}
