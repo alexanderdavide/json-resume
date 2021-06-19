@@ -1,4 +1,5 @@
 {
+  "meta": { "theme": "elegant" },
   "basics": {
     "name": "Alexander Eble",
     "label": "Full Stack Developer & Wirtschaftsinformatiker",
@@ -6,7 +7,7 @@
     "email": "alexeble1998@gmail.com",
     "phone": "",
     "website": "https://www.alexander-eble.me",
-    "summary": "Web- und Softwareentwickler mit betriebswirtschaftlicher Expertise",
+    "summary": "Full Stack Developer mit betriebswirtschaftlicher Expertise",
     "location": {
       "countryCode": "DE",
       "address": "Deutschland"
@@ -38,29 +39,41 @@
     {
       "name": "artiso solutions GmbH",
       "company": "artiso solutions GmbH",
-      "highlights": [],
       "position": "Masterstudent Softwareentwicklung",
       "startDate": "2021-02-28",
       "summary": "Entwicklung digitaler Assistenten zur optimalen Steuerung der Luftqualität in fenstergelüfteten Innenräumen mittels Machine Learning und Verschriftlichung der zugehörigen Masterarbeit",
+      "highlights": [
+        "Entwicklung einer IoT-Infrastruktur mit Mikrocontrollern zur Datenauslese von Sensoren und Übertragung in die Cloud mit `C++` und `PlatformIO`",
+        "Entwicklung einer Cloud-Infrastruktur mit `Terraform` auf `Microsoft Azure` inkl. IoT-Hub, Service Bus, Functions, Key Vault und TimescaleDB on PostgreSQL",
+        "Webhook-Integrationen in Microsoft Teams"
+      ],
       "url": "https://www.artiso.com/"
     },
     {
       "name": "Alexander Eble - Web- und Softwareentwicklung",
       "company": "Alexander Eble - Web- und Softwareentwicklung",
-      "highlights": [],
       "position": "Freiberuflicher Web- und Softwareentwickler",
       "startDate": "2019-11-30",
       "summary": "Web- und Softwareentwicklung nach Kundenanforderungen",
+      "highlights": [
+        "Full Stack Development eines dynamischen User Clusterings auf Basis von Bildbewertungen mit `Python`, `Flask` und statischer Website",
+        "Frontend Development im Team des SaaS [FlexPowerHub](https://flexpowerhub.de/) mit `React`, `JavaScript`",
+        "Frontend Development im Team einer B2B Plattform für Fahrzeughändler mit `React`, `TypeScript`"
+      ],
       "url": "https://www.alexander-eble.me"
     },
     {
       "name": "Uhlmann Pac-Systeme GmbH & Co. KG",
       "company": "Uhlmann Pac-Systeme GmbH & Co. KG",
       "endDate": "2020-09-30",
-      "highlights": [],
+      "summary": "",
+      "highlights": [
+        "Entwicklung einer CLI mit `C#` zur Sammlung von Logs und Reporting-Files aus APIs, Datenbanken und Servern",
+        "Weiterentwicklung der CLI zu einem Microservice als `REST-API` mit `ASP.NET`",
+        "Erweiterung des `Angular` Frontends zur Nutzung des Microservices"
+      ],
       "position": "Werkstudent Architecture & Technology Digital Solutions",
       "startDate": "2020-08-31",
-      "summary": "Entwicklung eines API Services und CLI Tools zur Sammlung von Logs und Reports aus APIs, Datenbanken und Servern",
       "url": "https://www.uhlmann.de/de/unternehmen/auf-einen-blick.html"
     },
     {
@@ -68,9 +81,9 @@
       "company": "EvoBus GmbH",
       "endDate": "2019-09-30",
       "highlights": [
-        "IT Mobility Solutions: Konzeption und Entwicklung von Softwareprototypen im Bereich Elektromobilität",
+        "IT Mobility Solutions: Konzeption und Entwicklung von Softwareprototypen im Bereich Elektromobilität mit `Java`, `Spring Boot` und `React`, `TypeScript`",
         "IT Business Intelligence, Analytics & Cognitive: Umfassende Software Evaluation für den Einsatz einer Data Cataloging Lösung",
-        "IT Engineering Services & Parts Systems (Mercedes-Benz USA): Projektmanagement von IT-Projekten in den Bereichen AI und Data Analytics",
+        "IT Engineering Services & Parts Systems (*Mercedes-Benz USA*): Projektmanagement von IT-Projekten in den Bereichen AI und Data Analytics",
         "IT AfterSales Warehouse, Parts & Logistic Solutions: Anforderungserhebung  unterschiedlich großer Lager der Daimler Buses AfterSales Standorte an deren IT-Unterstützung"
       ],
       "position": "Dualer Student Wirtschaftsinformatik",
@@ -83,27 +96,51 @@
     {
       "institution": "Fachhochschule Salzburg",
       "area": "MultiMediaTechnology Web Engineering",
-      "studyType": "Master of Science in Engineering - M.Sc.Eng.",
+      "studyType": "Master of Science in Engineering",
       "startDate": "2019-12-31",
       "endDate": "2021-12-31",
-      "gpa": "1.2",
-      "courses": []
+      "gpa": "1,2",
+      "courses": [
+        "Backend Development",
+        "Scalable Web Architectures",
+        "Distributed Software Architectures",
+        "Frontend Development",
+        "Client Side Web Engineering",
+        "Web-based Information Visualization",
+        "Efficient Algorithms",
+        "Continuous Delivery",
+        "Software Quality Assurance",
+        "Data Analysis",
+        "Recommender Systems",
+        "Applied Programming Paradigms",
+        "Agiles Projektmanagement",
+        "IT-Recht & Datenschutz"
+      ]
     },
     {
       "institution": "Duale Hochschule Baden-Württemberg",
       "area": "Wirtschaftsinformatik",
-      "studyType": "Bachelor of Science - BS",
+      "studyType": "Bachelor of Science",
       "startDate": "2016-12-31",
       "endDate": "2019-12-31",
-      "gpa": "2.0",
-      "courses": []
+      "gpa": "2,2",
+      "courses": [
+        "Konzepte der IT",
+        "Verteilte Systeme",
+        "Programmierung",
+        "Datenbanken",
+        "ERP",
+        "Anwendungssysteme und IT-Sicherheit",
+        "IT- und Geschäftsprozess-Management"
+      ]
     },
     {
       "institution": "Carl-Laemmle Gymnasium Laupheim",
       "area": "Abitur",
+      "studyType": "allgemeinbildend",
       "startDate": "2008-12-31",
       "endDate": "2016-12-31",
-      "gpa": "2.0",
+      "gpa": "2,0",
       "courses": []
     }
   ],
@@ -134,11 +171,10 @@
         "Ruby",
         "Ruby on Rails",
         "C#",
-        "HTML",
-        "CSS",
-        "REST APIs",
-        "GraphQL",
-        "Docker",
+        "HTML / CSS",
+        "REST / GraphQL",
+        "PostgreSQL",
+        "Linux",
         "Bash",
         "Git"
       ]
@@ -146,26 +182,12 @@
     {
       "name": "Cloud-Computing",
       "level": "",
-      "keywords": [
-        "Amazon Web Services (AWS)",
-        "Google Cloud Platform (GCP)",
-        "Microsoft Azure"
-      ]
+      "keywords": ["Microsoft Azure", "Google Cloud Platform (GCP)"]
     },
     {
-      "name": "Continuous Integration und Continuous Delivery (CI/CD)",
+      "name": "DevOps",
       "level": "",
-      "keywords": ["Terraform", "GitHub Actions", "GitLab CI/CD"]
-    },
-    {
-      "name": "Relationale Datenbanken",
-      "level": "",
-      "keywords": ["PostgreSQL"]
-    },
-    {
-      "name": "Betriebssysteme",
-      "level": "",
-      "keywords": ["Linux"]
+      "keywords": ["Docker", "Terraform", "GitHub Actions", "GitLab CI/CD"]
     },
     {
       "name": "Project Management",
@@ -187,7 +209,6 @@
       "fluency": "Konversationssicher"
     }
   ],
-  "interests": [],
   "references": [
     {
       "name": "Prof. Dr. Roman Egger",
@@ -206,5 +227,12 @@
       "reference": "Alexander is one of those rare students who truly stands-out from \"the rest of class\" because he actually cares about his studies; and, is extremely active and engaged in his own personal learning."
     }
   ],
-  "meta": { "theme": "elegant" }
+  "interests": [
+    {
+      "name": "Mode"
+    },
+    {
+      "name": "Musik"
+    }
+  ]
 }
