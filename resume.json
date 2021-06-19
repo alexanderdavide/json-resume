@@ -127,19 +127,18 @@
       "name": "Full-Stack Development",
       "level": "",
       "keywords": [
-        "TypeScript",
-        "JavaScript",
+        "JavaScript / TypeScript",
+        "React.js",
         "Python",
+        "Flask",
         "Ruby",
+        "Ruby on Rails",
         "C#",
         "HTML",
         "CSS",
-        "React.js",
-        "Ruby on Rails",
-        "Flask",
+        "REST APIs",
         "GraphQL",
         "Docker",
-        "REST APIs",
         "Bash",
         "Git"
       ]
@@ -154,9 +153,9 @@
       ]
     },
     {
-      "name": "Project Management",
+      "name": "Continuous Integration und Continuous Delivery (CI/CD)",
       "level": "",
-      "keywords": ["Agile & Waterfall Methodologies", "Scrum"]
+      "keywords": ["Terraform", "GitHub Actions", "GitLab CI/CD"]
     },
     {
       "name": "Relationale Datenbanken",
@@ -164,14 +163,14 @@
       "keywords": ["PostgreSQL"]
     },
     {
-      "name": "Continuous Integration und Continuous Delivery (CI/CD)",
-      "level": "",
-      "keywords": ["Terraform", "GitHub Actions", "GitLab CI/CD"]
-    },
-    {
       "name": "Betriebssysteme",
       "level": "",
       "keywords": ["Linux"]
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": ["Agile & Waterfall Methodologies", "Scrum"]
     }
   ],
   "languages": [
