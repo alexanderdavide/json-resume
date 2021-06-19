@@ -37,6 +37,7 @@
   "work": [
     {
       "name": "artiso solutions GmbH",
+      "company": "artiso solutions GmbH",
       "highlights": [],
       "position": "Masterstudent Softwareentwicklung",
       "startDate": "2021-02-28",
@@ -45,6 +46,7 @@
     },
     {
       "name": "Alexander Eble - Web- und Softwareentwicklung",
+      "company": "Alexander Eble - Web- und Softwareentwicklung",
       "highlights": [],
       "position": "Freiberuflicher Web- und Softwareentwickler",
       "startDate": "2019-11-30",
@@ -53,6 +55,7 @@
     },
     {
       "name": "Uhlmann Pac-Systeme GmbH & Co. KG",
+      "company": "Uhlmann Pac-Systeme GmbH & Co. KG",
       "endDate": "2020-09-30",
       "highlights": [],
       "position": "Werkstudent Architecture & Technology Digital Solutions",
@@ -62,6 +65,7 @@
     },
     {
       "name": "EvoBus GmbH",
+      "company": "EvoBus GmbH",
       "endDate": "2019-09-30",
       "highlights": [
         "IT Mobility Solutions: Konzeption und Entwicklung von Softwareprototypen im Bereich Elektromobilität",
@@ -96,7 +100,7 @@
     },
     {
       "institution": "Carl-Laemmle Gymnasium Laupheim",
-      "studyType": "Abitur",
+      "area": "Abitur",
       "startDate": "2008-12-31",
       "endDate": "2016-12-31",
       "gpa": "2.0",
