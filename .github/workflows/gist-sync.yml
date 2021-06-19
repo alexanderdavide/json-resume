@@ -13,4 +13,6 @@ jobs:
         with:
           auth: ${{ secrets.GIST_TOKEN }}
           gist_url: https://gist.github.com/alexanderdavide/9a6c025553cc25001eed4e8d404cf73c
+          gist_description: Alexander Eble's JSON Resume
           github_file: resume.json
+          gist_title: resume.json
