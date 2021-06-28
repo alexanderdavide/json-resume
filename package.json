@@ -2,9 +2,9 @@
   "name": "json-resume",
   "version": "1.0.0",
   "description": "Alexander Eble's JSON Resume",
-  "main": "index.js",
+  "main": "resume.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx resume-cli serve --theme elegant"
   },
   "keywords": [
     "alexander",
@@ -13,7 +13,6 @@
     "cv"
   ],
   "author": "alexanderdavide",
-  "license": "ISC",
   "dependencies": {
     "jsonresume-theme-elegant": "^1.16.1",
     "prettier": "^2.3.1",
