@@ -44,7 +44,7 @@
       "summary": "Entwicklung digitaler Assistenten zur optimalen Steuerung der Luftqualität in fenstergelüfteten Innenräumen mittels Machine Learning und Verschriftlichung der zugehörigen Masterarbeit",
       "highlights": [
         "Entwicklung einer IoT-Infrastruktur mit Mikrocontrollern zur Datenauslese von Sensoren und Übertragung in die Cloud mit `C++` und `PlatformIO`",
-        "Entwicklung einer Cloud-Infrastruktur mit `Terraform` auf `Microsoft Azure` inkl. IoT-Hub, Service Bus, Functions, Key Vault und TimescaleDB on PostgreSQL",
+        "Entwicklung einer Cloud-Infrastruktur mit `Terraform` und `Microsoft Azure` inkl. IoT-Hub, Service Bus, Functions, Key Vault und TimescaleDB on PostgreSQL",
         "Webhook-Integrationen in Microsoft Teams"
       ],
       "url": "https://www.artiso.com/"
@@ -83,8 +83,7 @@
       "highlights": [
         "IT Mobility Solutions: Konzeption und Entwicklung von Softwareprototypen im Bereich Elektromobilität mit `Java`, `Spring Boot` und `React`, `TypeScript`",
         "IT Business Intelligence, Analytics & Cognitive: Umfassende Software Evaluation für den Einsatz einer Data Cataloging Lösung",
-        "IT Engineering Services & Parts Systems (*Mercedes-Benz USA*): Projektmanagement von IT-Projekten in den Bereichen AI und Data Analytics",
-        "IT AfterSales Warehouse, Parts & Logistic Solutions: Anforderungserhebung  unterschiedlich großer Lager der Daimler Buses AfterSales Standorte an deren IT-Unterstützung"
+        "IT Engineering Services & Parts Systems (*Mercedes-Benz USA*): Projektmanagement von IT-Projekten in den Bereichen AI und Data Analytics"
       ],
       "position": "Dualer Student Wirtschaftsinformatik",
       "startDate": "2016-09-30",
