@@ -2,12 +2,12 @@
   "meta": { "theme": "elegant" },
   "basics": {
     "name": "Alexander Eble",
-    "label": "Full Stack Developer | Wirtschaftsinformatiker | Freelancer",
+    "label": "Innovation Engineer @artiso | Freelance JavaScript Engineer",
     "picture": "",
-    "email": "alexeble1998@gmail.com",
+    "email": "mail@alex-eble.de",
     "phone": "",
-    "website": "https://www.alexander-eble.me",
-    "summary": "Ich bin Full Stack Developer mit betriebswirtschaftlicher Expertise. Neben meiner Hauptbeschäftigung bin ich als freiberuflicher Entwickler tätig.",
+    "website": "https://www.alex-eble.de",
+    "summary": "Ich bin Innovation Engineer bei [artiso](https://www.artiso.com) und nebenberuflicher Freelance JavaScript Full-Stack Engineer.",
     "location": {
       "countryCode": "DE",
       "city": "Burgrieden"
@@ -39,13 +39,26 @@
     {
       "name": "artiso solutions GmbH",
       "company": "artiso solutions GmbH",
-      "position": "Masterstudent Softwareentwicklung",
+      "position": "Innovation Engineer",
+      "startDate": "2021-12-01",
+      "summary": "Entdeckung von Innovationen, Business Development, Umsetzung als Corporate Startups durch Software Engineering",
+      "highlights": [
+        "Organisation des Events [Perfect Pitch](https://www.artiso.com/pitch)"
+      ],
+      "url": "https://www.artiso.com/"
+    },
+    {
+      "name": "artiso solutions GmbH",
+      "company": "artiso solutions GmbH",
+      "position": "Masterstudent Software Engineering",
       "startDate": "2021-02-28",
-      "summary": "Entwicklung digitaler Assistenten zur optimalen Steuerung der Luftqualität in fenstergelüfteten Innenräumen mittels Machine Learning und Verschriftlichung der zugehörigen Masterarbeit",
+      "endDate": "2021-11-30",
+      "summary": "Masterthesis \"Prognose der Luftqualität in Büroumgebungen\"",
       "highlights": [
         "Entwicklung einer IoT-Infrastruktur mit Mikrocontrollern zur Datenauslese von Sensoren und Übertragung in die Cloud mit `C++` und `PlatformIO`",
         "Entwicklung einer Cloud-Infrastruktur mit `Terraform` und `Microsoft Azure` inkl. IoT-Hub, Service Bus, Functions, Key Vault und TimescaleDB on PostgreSQL",
-        "Webhook-Integrationen in Microsoft Teams"
+        "Webhook-Integrationen in Microsoft Teams",
+        "Data Analysis und Deep Learning mit `Python` und `Keras`"
       ],
       "url": "https://www.artiso.com/"
     },
