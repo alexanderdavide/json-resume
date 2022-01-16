@@ -14,14 +14,14 @@
     },
     "profiles": [
       {
-        "network": "StackOverflow",
-        "username": "alexander-eble",
-        "url": "https://stackoverflow.com/users/9378384/alexander-eble"
-      },
-      {
         "network": "GitHub",
         "username": "alexanderdavide",
         "url": "https://github.com/alexanderdavide"
+      },
+      {
+        "network": "StackOverflow",
+        "username": "alexander-eble",
+        "url": "https://stackoverflow.com/users/9378384/alexander-eble"
       },
       {
         "network": "LinkedIn",
@@ -42,9 +42,6 @@
       "position": "Innovation Engineer",
       "startDate": "2021-12-01",
       "summary": "Entdeckung von Innovationen, Business Development, Umsetzung als Corporate Startups durch Software Engineering",
-      "highlights": [
-        "Organisation des Events [Perfect Pitch](https://www.artiso.com/pitch)"
-      ],
       "url": "https://www.artiso.com/"
     },
     {
@@ -54,39 +51,23 @@
       "startDate": "2021-02-28",
       "endDate": "2021-11-30",
       "summary": "Masterthesis \"Prognose der Luftqualität in Büroumgebungen\"",
-      "highlights": [
-        "Entwicklung einer IoT-Infrastruktur mit Mikrocontrollern zur Datenauslese von Sensoren und Übertragung in die Cloud mit `C++` und `PlatformIO`",
-        "Entwicklung einer Cloud-Infrastruktur mit `Terraform` und `Microsoft Azure` inkl. IoT-Hub, Service Bus, Functions, Key Vault und TimescaleDB on PostgreSQL",
-        "Webhook-Integrationen in Microsoft Teams",
-        "Data Analysis und Deep Learning mit `Python` und `Keras`"
-      ],
       "url": "https://www.artiso.com/"
     },
     {
       "name": "Alexander Eble - Web- und Softwareentwicklung",
       "company": "Alexander Eble - Web- und Softwareentwicklung",
-      "position": "Freiberuflicher Web- und Softwareentwickler",
+      "position": "Freelance JavaScript Engineer",
       "startDate": "2019-11-30",
-      "summary": "Web- und Softwareentwicklung nach Kundenanforderungen",
-      "highlights": [
-        "Full Stack Development eines dynamischen User Clusterings auf Basis von Bildbewertungen mit `Python`, `Flask` und statischer Website",
-        "Frontend Development im Team des SaaS [FlexPowerHub](https://flexpowerhub.de/) mit `React`, `JavaScript`",
-        "Frontend Development im Team einer B2B Plattform für Fahrzeughändler mit `React`, `TypeScript`"
-      ],
-      "url": "https://www.alexander-eble.me"
+      "summary": "JavaScript Entwicklung nach Kundenanforderungen: Websites, Frontends, Backends, Mobile Apps",
+      "url": "https://www.alex-eble.de"
     },
     {
       "name": "Uhlmann Pac-Systeme GmbH & Co. KG",
       "company": "Uhlmann Pac-Systeme GmbH & Co. KG",
       "endDate": "2020-09-30",
-      "summary": "",
-      "highlights": [
-        "Entwicklung einer CLI mit `C#` zur Sammlung von Logs und Reporting-Files aus APIs, Datenbanken und Servern",
-        "Weiterentwicklung der CLI zu einem Microservice als `REST-API` mit `ASP.NET`",
-        "Erweiterung des `Angular` Frontends zur Nutzung des Microservices"
-      ],
       "position": "Werkstudent Architecture & Technology Digital Solutions",
       "startDate": "2020-08-31",
+      "summary": "Entwicklung eines Frontends und Microservices zum aggregierten Download spezifischer Files aus verteilter Infrastruktur",
       "url": "https://www.uhlmann.de/de/unternehmen/auf-einen-blick.html"
     },
     {
@@ -94,9 +75,8 @@
       "company": "EvoBus GmbH",
       "endDate": "2019-09-30",
       "highlights": [
-        "IT Mobility Solutions: Konzeption und Entwicklung von Softwareprototypen im Bereich Elektromobilität mit `Java`, `Spring Boot` und `React`, `TypeScript`",
-        "IT Business Intelligence, Analytics & Cognitive: Umfassende Software Evaluation für den Einsatz einer Data Cataloging Lösung",
-        "IT Engineering Services & Parts Systems (*Mercedes-Benz USA*): Projektmanagement von IT-Projekten in den Bereichen AI und Data Analytics"
+        "Konzeption und Entwicklung von Softwareprototypen im Bereich Elektromobilität",
+        "Projektmanagement von IT-Projekten diverser Geschäftsbereiche"
       ],
       "position": "Dualer Student Wirtschaftsinformatik",
       "startDate": "2016-09-30",
@@ -110,7 +90,7 @@
       "area": "MultiMediaTechnology Web Engineering",
       "studyType": "Master of Science in Engineering",
       "startDate": "2019-12-31",
-      "endDate": "2021-12-31",
+      "endDate": "2022-02-28",
       "gpa": "1,2",
       "courses": [
         "Backend Development",
@@ -176,35 +156,31 @@
       "name": "Full-Stack Development",
       "level": "",
       "keywords": [
-        "JavaScript / TypeScript",
-        "React.js",
-        "Python",
-        "Flask",
-        "Ruby",
-        "Ruby on Rails",
-        "C#",
-        "HTML / CSS",
-        "REST / GraphQL",
-        "PostgreSQL",
-        "Linux",
-        "Bash",
-        "Git"
+        "[Jamstack](https://jamstack.org/what-is-jamstack/)",
+        "[PERN Stack](https://www.geeksforgeeks.org/what-is-pern-stack/)",
+        "HTML, CSS",
+        "TypeScript"
       ]
     },
     {
-      "name": "Cloud-Computing",
+      "name": "Infrastructure",
       "level": "",
-      "keywords": ["Microsoft Azure", "Google Cloud Platform (GCP)"]
+      "keywords": [
+        "Docker",
+        "Terraform",
+        "GitHub Actions",
+        "Amazon Web Services"
+      ]
     },
     {
-      "name": "DevOps",
+      "name": "Engineering",
       "level": "",
-      "keywords": ["Docker", "Terraform", "GitHub Actions", "GitLab CI/CD"]
-    },
-    {
-      "name": "Project Management",
-      "level": "",
-      "keywords": ["Agile & Waterfall Methodologies", "Scrum"]
+      "keywords": [
+        "[SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle)",
+        "Scrum",
+        "Waterfall",
+        "[Twelve-Factor App](https://12factor.net/de/)"
+      ]
     }
   ],
   "languages": [
@@ -221,25 +197,10 @@
       "fluency": "Konversationssicher"
     }
   ],
-  "references": [
-    {
-      "name": "Prof. Dr. Roman Egger",
-      "reference": "Herr Eble hat ein Tool zur Customer Segmentation umgesetzt, wobei ein Clustering Verfahren, Dimensionsreduktion und Visualisierung der Daten sowie ein User Interface entwickelt. Das Projekt wurde zu meiner vollsten Zufriedenheit umgesetzt. Ich freue mich auf weitere Projekte mit Herrn Eble."
-    },
-    {
-      "name": "Martin Simmerstatter",
-      "reference": "Persönlich: lösungsorientiert; flexibel; positive Einstellung; bedacht; strukturiert; kühler, schlauer Kopf. Wir sind mit der Umsetzung unseres Front-End sehr zufrieden. Wir haben noch einige Projekte in der Pipeline die wir gerne mit Alex umsetzen würden."
-    },
-    {
-      "name": "Alexander Bilz",
-      "reference": "While the tasks at Baden Württemberg State University ranged from programming to writing case studies, Alex's attitude has always been extremely consistent. His incredible attention to detail, vast technical knowledge and willingness to go the extra mile makes it a true joy to tackle any challenge."
-    },
-    {
-      "name": "Mark A.M. Kramer",
-      "reference": "Alexander is one of those rare students who truly stands-out from \"the rest of class\" because he actually cares about his studies; and, is extremely active and engaged in his own personal learning."
-    }
-  ],
   "interests": [
+    {
+      "name": "Tech Startups"
+    },
     {
       "name": "Mode"
     },
