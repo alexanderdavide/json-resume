@@ -93,20 +93,11 @@
       "endDate": "2022-02-28",
       "gpa": "1,2",
       "courses": [
+        "Frontend Development",
         "Backend Development",
         "Scalable Web Architectures",
-        "Distributed Software Architectures",
-        "Frontend Development",
-        "Client Side Web Engineering",
-        "Web-based Information Visualization",
-        "Efficient Algorithms",
         "Continuous Delivery",
-        "Software Quality Assurance",
-        "Data Analysis",
-        "Recommender Systems",
-        "Applied Programming Paradigms",
-        "Agiles Projektmanagement",
-        "IT-Recht & Datenschutz"
+        "Software Quality Assurance"
       ]
     },
     {
@@ -119,11 +110,9 @@
       "courses": [
         "Konzepte der IT",
         "Verteilte Systeme",
-        "Programmierung",
         "Datenbanken",
-        "ERP",
         "Anwendungssysteme und IT-Sicherheit",
-        "IT- und Geschäftsprozess-Management"
+        "IT-Geschäftsprozess-Management"
       ]
     },
     {
