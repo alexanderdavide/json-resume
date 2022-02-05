@@ -91,7 +91,6 @@
       "studyType": "Master of Science in Engineering",
       "startDate": "2019-12-31",
       "endDate": "2022-02-28",
-      "gpa": "1,2",
       "courses": [
         "Frontend Development",
         "Backend Development",
@@ -106,7 +105,6 @@
       "studyType": "Bachelor of Science",
       "startDate": "2016-12-31",
       "endDate": "2019-12-31",
-      "gpa": "2,2",
       "courses": [
         "Konzepte der IT",
         "Verteilte Systeme",
@@ -121,7 +119,6 @@
       "studyType": "allgemeinbildend",
       "startDate": "2008-12-31",
       "endDate": "2016-12-31",
-      "gpa": "2,0",
       "courses": []
     }
   ],
