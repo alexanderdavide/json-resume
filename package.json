@@ -4,7 +4,7 @@
   "description": "Alexander Eble's JSON Resume",
   "main": "resume.json",
   "scripts": {
-    "start": "npx resume-cli serve --theme elegant"
+    "start": "npx resume-cli serve --theme paper"
   },
   "keywords": [
     "alexander",
@@ -14,7 +14,7 @@
   ],
   "author": "alexanderdavide",
   "dependencies": {
-    "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-paper": "^0.5.0",
     "prettier": "^2.3.1",
     "resume-cli": "^3.0.4"
   }

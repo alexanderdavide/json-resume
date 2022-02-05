@@ -1,39 +1,17 @@
 {
-  "meta": { "theme": "elegant" },
+  "meta": { "theme": "paper" },
   "basics": {
     "name": "Alexander Eble",
     "label": "Innovation Engineer @artiso | Freelance JavaScript Engineer",
     "picture": "https://avatars.githubusercontent.com/u/35292572?v=4",
     "email": "mail@alex-eble.de",
-    "phone": "",
-    "website": "https://www.alex-eble.de",
-    "summary": "Ich bin Innovation Engineer bei [artiso](https://www.artiso.com) und nebenberuflicher Freelance JavaScript Engineer.",
+    "website": "www.alex-eble.de",
     "location": {
-      "countryCode": "DE",
-      "city": "Burgrieden"
-    },
-    "profiles": [
-      {
-        "network": "GitHub",
-        "username": "alexanderdavide",
-        "url": "https://github.com/alexanderdavide"
-      },
-      {
-        "network": "StackOverflow",
-        "username": "alexander-eble",
-        "url": "https://stackoverflow.com/users/9378384/alexander-eble"
-      },
-      {
-        "network": "LinkedIn",
-        "username": "alexander-eble",
-        "url": "https://www.linkedin.com/in/alexander-eble/"
-      },
-      {
-        "network": "Twitter",
-        "username": "alexander_eble",
-        "url": "https://twitter.com/alexander_eble"
-      }
-    ]
+      "address": "Achstetter Strasse 36",
+      "postalCode": "88483",
+      "city": "Burgrieden",
+      "region": "Germany"
+    }
   },
   "work": [
     {
@@ -41,16 +19,16 @@
       "company": "artiso solutions GmbH",
       "position": "Innovation Engineer",
       "startDate": "2021-12-01",
-      "summary": "Entdeckung von Innovationen, Business Development, Umsetzung als Corporate Startups durch Software Engineering",
+      "summary": "Software engineering and business development of corporate startups",
       "url": "https://www.artiso.com/"
     },
     {
       "name": "artiso solutions GmbH",
       "company": "artiso solutions GmbH",
-      "position": "Masterstudent Software Engineering",
+      "position": "Master Student Software Engineering",
       "startDate": "2021-02-28",
       "endDate": "2021-11-30",
-      "summary": "Masterthesis \"Prognose der Luftqualität in Büroumgebungen\"",
+      "summary": "Master thesis 'Prediction of Air Quality in Office Environments'",
       "url": "https://www.artiso.com/"
     },
     {
@@ -58,94 +36,65 @@
       "company": "Alexander Eble - Web- und Softwareentwicklung",
       "position": "Freelance JavaScript Engineer",
       "startDate": "2019-11-30",
-      "summary": "JavaScript Entwicklung nach Kundenanforderungen: Websites, Frontends, Backends, Mobile Apps",
+      "summary": "Websites, frontends, backends, mobile apps to customers' needs",
       "url": "https://www.alex-eble.de"
     },
     {
       "name": "Uhlmann Pac-Systeme GmbH & Co. KG",
       "company": "Uhlmann Pac-Systeme GmbH & Co. KG",
       "endDate": "2020-09-30",
-      "position": "Werkstudent Architecture & Technology Digital Solutions",
+      "position": "Working Student Architecture & Technology Digital Solutions",
       "startDate": "2020-08-31",
-      "summary": "Entwicklung eines Frontends und Microservices zum aggregierten Download spezifischer Files aus verteilter Infrastruktur",
+      "summary": "Frontend and microservice for downloading distributed files",
       "url": "https://www.uhlmann.de/de/unternehmen/auf-einen-blick.html"
     },
     {
       "name": "EvoBus GmbH",
       "company": "EvoBus GmbH",
       "endDate": "2019-09-30",
-      "highlights": [
-        "Konzeption und Entwicklung von Softwareprototypen im Bereich Elektromobilität",
-        "Projektmanagement von IT-Projekten diverser Geschäftsbereiche"
-      ],
-      "position": "Dualer Student Wirtschaftsinformatik",
+      "summary": "IT project management, frontend and microservice for electric mobility",
+      "position": "Dual Study Program Business Information Systems",
       "startDate": "2016-09-30",
       "url": "https://www.evobus.com/de-de/"
     }
   ],
-  "volunteer": [],
   "education": [
     {
-      "institution": "Fachhochschule Salzburg",
+      "institution": "Salzburg University of Applied Sciences",
       "area": "MultiMediaTechnology Web Engineering",
-      "studyType": "Master of Science in Engineering",
+      "studyType": "Master of Science",
       "startDate": "2019-12-31",
-      "endDate": "2022-02-28",
-      "courses": [
-        "Frontend Development",
-        "Backend Development",
-        "Scalable Web Architectures",
-        "Continuous Delivery",
-        "Software Quality Assurance"
-      ]
+      "endDate": "2022-02-28"
     },
     {
-      "institution": "Duale Hochschule Baden-Württemberg",
-      "area": "Wirtschaftsinformatik",
+      "institution": "Baden-Wuerttemberg Cooperative State University Heidenheim",
+      "area": "Business Information Systems",
       "studyType": "Bachelor of Science",
       "startDate": "2016-12-31",
-      "endDate": "2019-12-31",
-      "courses": [
-        "Konzepte der IT",
-        "Verteilte Systeme",
-        "Datenbanken",
-        "Anwendungssysteme und IT-Sicherheit",
-        "IT-Geschäftsprozess-Management"
-      ]
-    },
-    {
-      "institution": "Carl-Laemmle Gymnasium Laupheim",
-      "area": "Abitur",
-      "studyType": "allgemeinbildend",
-      "startDate": "2008-12-31",
-      "endDate": "2016-12-31",
-      "courses": []
+      "endDate": "2019-12-31"
     }
   ],
   "awards": [
     {
-      "title": "Leistungsstipendium des Studiengangs MultiMediaTechnology",
-      "date": "2020-11-01",
-      "awarder": "FH Salzburg, Studiengang MultiMediaTechnology",
-      "summary": ""
-    },
-    {
-      "title": "Stipendium #wirsindzukunft",
-      "date": "2020-08-31",
-      "awarder": "Salzburg AG in Kooperation mit dem Land Salzburg und der FH Salzburg",
-      "summary": ""
+      "date": "2020-11-01 | 2020-08-31",
+      "awarder": "Merit scholarship UAS Salzburg, MultiMediaTechnology | Science scholarship #wirsindzukunft, Salzburg AG"
     }
   ],
-  "publications": [],
   "skills": [
     {
       "name": "Full Stack Development",
       "level": "",
       "keywords": [
-        "[Jamstack](https://jamstack.org/what-is-jamstack/)",
-        "[PERN Stack](https://www.geeksforgeeks.org/what-is-pern-stack/)",
-        "HTML, CSS",
-        "TypeScript"
+        "Javascript",
+        "TypeScript",
+        "React",
+        "React Native",
+        "Node.js",
+        "Express.js",
+        "PostgreSQL",
+        "Jamstack",
+        "HTML",
+        "CSS"
       ]
     },
     {
@@ -161,37 +110,17 @@
     {
       "name": "Engineering",
       "level": "",
-      "keywords": [
-        "[SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle)",
-        "Scrum",
-        "Waterfall",
-        "[Twelve-Factor App](https://12factor.net/de/)"
-      ]
+      "keywords": ["SDLC", "Scrum", "Waterfall", "Twelve-Factor App"]
     }
   ],
   "languages": [
     {
-      "language": "Deutsch",
-      "fluency": "Muttersprachler"
+      "language": "German",
+      "fluency": "native"
     },
     {
-      "language": "Englisch",
-      "fluency": "Fließend"
-    },
-    {
-      "language": "Spanisch",
-      "fluency": "Konversationssicher"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Tech Startups"
-    },
-    {
-      "name": "Mode"
-    },
-    {
-      "name": "Musik"
+      "language": "English",
+      "fluency": "fluent"
     }
   ]
 }
