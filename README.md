@@ -1,4 +1,4 @@
-# Alexander Eble's JSON Resume [![gist-sync](https://github.com/alexanderdavide/json-resume/actions/workflows/gist-sync.yml/badge.svg)](https://github.com/alexanderdavide/json-resume/actions/workflows/gist-sync.yml)
+# Alexander Eble's JSON Resume [![gist-sync](https://github.com/alexanderdavide/json-resume/actions/workflows/gist-sync.yml/badge.svg)](https://github.com/alexanderdavide/json-resume/actions/workflows/gist-sync.yml) [![website status](https://img.shields.io/website?down_color=red&up_color=success&url=https%3A%2F%2Fregistry.jsonresume.org/alexanderdavide)](https://img.shields.io/website?down_color=red&style=for-the-badge&up_color=green&url=https%3A%2F%2Fregistry.jsonresume.org/alexanderdavide)
 
 
 - Made using the [JSON Resume](https://jsonresume.org/) standard and [jsonresume-theme-elegant](https://github.com/mudassir0909/jsonresume-theme-elegant).
