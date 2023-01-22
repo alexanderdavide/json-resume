@@ -4,6 +4,7 @@
   "description": "Alexander Eble's JSON Resume",
   "main": "resume.json",
   "scripts": {
+    "export": "npx resume-cli export --format pdf --theme paper cv-alexander-eble.pdf",
     "start": "npx resume-cli serve --theme paper"
   },
   "keywords": [
