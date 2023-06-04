@@ -22,6 +22,55 @@
       "region": "Germany"
     }
   },
+  "education": [
+    {
+      "institution": "Salzburg University of Applied Sciences",
+      "area": "MultiMediaTechnology Web Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2019-12-31",
+      "endDate": "2022-02-28"
+    },
+    {
+      "institution": "Baden-Wuerttemberg Cooperative State University Heidenheim",
+      "area": "Business Information Systems",
+      "studyType": "Bachelor of Science",
+      "startDate": "2016-12-31",
+      "endDate": "2019-12-31"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Full Stack Development",
+      "level": "",
+      "keywords": [
+        "Javascript",
+        "TypeScript",
+        "React",
+        "React Native",
+        "Node.js",
+        "Express.js",
+        "PostgreSQL",
+        "Jamstack",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Infrastructure",
+      "level": "",
+      "keywords": [
+        "Docker",
+        "Terraform",
+        "GitHub Actions",
+        "Amazon Web Services"
+      ]
+    },
+    {
+      "name": "Engineering",
+      "level": "",
+      "keywords": ["SDLC", "Scrum", "Waterfall", "Twelve-Factor App"]
+    }
+  ],
   "work": [
     {
       "name": "artiso solutions GmbH",
@@ -67,59 +116,10 @@
       "url": "https://www.evobus.com/de-de/"
     }
   ],
-  "education": [
-    {
-      "institution": "Salzburg University of Applied Sciences",
-      "area": "MultiMediaTechnology Web Engineering",
-      "studyType": "Master of Science",
-      "startDate": "2019-12-31",
-      "endDate": "2022-02-28"
-    },
-    {
-      "institution": "Baden-Wuerttemberg Cooperative State University Heidenheim",
-      "area": "Business Information Systems",
-      "studyType": "Bachelor of Science",
-      "startDate": "2016-12-31",
-      "endDate": "2019-12-31"
-    }
-  ],
   "awards": [
     {
       "date": "2020",
       "awarder": "Merit scholarship, UAS Salzburg MultiMediaTechnology | Science scholarship #wirsindzukunft, Salzburg AG"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Full Stack Development",
-      "level": "",
-      "keywords": [
-        "Javascript",
-        "TypeScript",
-        "React",
-        "React Native",
-        "Node.js",
-        "Express.js",
-        "PostgreSQL",
-        "Jamstack",
-        "HTML",
-        "CSS"
-      ]
-    },
-    {
-      "name": "Infrastructure",
-      "level": "",
-      "keywords": [
-        "Docker",
-        "Terraform",
-        "GitHub Actions",
-        "Amazon Web Services"
-      ]
-    },
-    {
-      "name": "Engineering",
-      "level": "",
-      "keywords": ["SDLC", "Scrum", "Waterfall", "Twelve-Factor App"]
     }
   ],
   "languages": [
