@@ -2,7 +2,7 @@
   "meta": { "theme": "onepage-plus" },
   "basics": {
     "name": "Alexander Eble",
-    "label": "Software Engineer • JavaScript & Product Development",
+    "summary": "I'm a Software Engineer focused on JavaScript and product development. I'm specialized on building software from the ground up while accompanying product incubation.",
     "picture": "https://avatars.githubusercontent.com/u/35292572?v=4",
     "email": "mail@alexeble.de",
     "profiles": [
