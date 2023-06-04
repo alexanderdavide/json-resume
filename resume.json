@@ -1,11 +1,20 @@
 {
-  "meta": { "theme": "paper" },
+  "meta": { "theme": "onepage-plus" },
   "basics": {
     "name": "Alexander Eble",
     "label": "Software Engineer • JavaScript & Product Development",
     "picture": "https://avatars.githubusercontent.com/u/35292572?v=4",
     "email": "mail@alexeble.de",
-    "website": "www.alexeble.de",
+    "profiles": [
+      {
+        "network": "Website",
+        "url": "https://alexeble.de"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://linkedin.com/in/alexander-eble"
+      }
+    ],
     "location": {
       "address": "Achstetter Strasse 36",
       "postalCode": "88483",
