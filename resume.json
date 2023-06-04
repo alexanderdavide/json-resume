@@ -73,11 +73,11 @@
     {
       "name": "Innovation Engineer",
       "startDate": "2021-12-01",
-      "summary": "Software engineering and business development of corporate startups",
+      "summary": "Software engineering and innovative product development",
       "url": "https://www.artiso.com"
     },
     {
-      "name": "Master Student Software Engineering",
+      "name": "Master's Student Software Engineering",
       "startDate": "2021-02-28",
       "endDate": "2021-11-30",
       "summary": "Master thesis 'Prediction of Air Quality in Office Environments'",
@@ -86,20 +86,20 @@
     {
       "name": "Freelance JavaScript Engineer",
       "startDate": "2019-11-30",
-      "summary": "Websites, frontends, backends, mobile apps to customers' needs",
+      "summary": "Software engineering to customers' needs",
       "url": "https://www.alexeble.de/freelancing"
     },
     {
       "name": "Working Student Architecture & Technology Digital Solutions",
       "endDate": "2020-09-30",
       "startDate": "2020-08-31",
-      "summary": "Frontend and microservice for downloading distributed files",
+      "summary": "Software engineering in pharmaceutical packaging",
       "url": "https://www.uhlmann.de"
     },
     {
       "name": "Dual Study Program Business Information Systems",
       "endDate": "2019-09-30",
-      "summary": "IT project management, frontend and microservice for electric mobility",
+      "summary": "IT project management, software engineering in electric mobility",
       "startDate": "2016-09-30",
       "url": "https://www.evobus.com"
     }
