@@ -43,24 +43,21 @@
       "name": "Engineering",
       "level": "",
       "keywords": [
-        "Javascript",
+        "JavaScript",
         "TypeScript",
-        "React",
-        "React Native",
-        "Expo",
         "Node.js",
-        "Express.js",
-        "PostgreSQL",
-        "Jamstack",
         "HTML",
         "CSS",
-        "Docker",
+        "React (Native)",
+        "Expo",
+        "Jamstack",
+        "Express.js",
+        "PostgreSQL",
         "Terraform",
+        "MS Azure",
         "GitHub Actions",
-        "Amazon Web Services",
-        "Google Cloud Platform",
-        "Microsoft Azure",
-        "Linux"
+        "Linux",
+        "Docker"
       ]
     },
     {
